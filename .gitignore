@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Third-party tooling directory (not authored project source)
+data/
+
+# Keep generated lexer/parser sources in repository intentionally
+!lex.yy.c
+!y.tab.c
+!y.tab.h
