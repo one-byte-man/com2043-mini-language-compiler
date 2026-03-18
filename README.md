@@ -135,5 +135,5 @@ This is an educational course project. You may study and reference it, but do no
 
 ## Author
 
-- Ahmet Akpinar
+- Ahmet Akpınar
 - GitHub: https://github.com/one_byte_man
